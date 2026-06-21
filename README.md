@@ -1,5 +1,5 @@
 # Cel-Shader-Project
-A Cel Shader Project that contains a Simple and Advanced Implementation of Cel Shaders in Unreal Engine 5
+A Cel Shader Project that implements the Cel Shader effect using various methods.
 
 ## Features
 - Simple Cel Shader - uses heavy post process effects 
